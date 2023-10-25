@@ -8,3 +8,7 @@ To-do can work! This is a package designed to interact with FB.API. It provides 
 Your bot can also add extensions for Facebook using the Facension API, such as the Sound from Emoji extension provided by `@manyong/soundemoji`.
 
 Get started now and make your bot amazing!
+
+# To do
+- [ ] Web-based (Class: Web)
+- [ ] API-based (Class: API)
