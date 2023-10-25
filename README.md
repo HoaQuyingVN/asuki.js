@@ -12,3 +12,11 @@ Get started now and make your bot amazing!
 # To do
 - [ ] Web-based (Class: Web)
 - [ ] API-based (Class: API)
+# Note that for use our package
+Please instant watch our note to your bot run is 24/7
+## Prefix(Web:class) must 1 file contain 1 prefix?
+yes, We are need your bot to use PREFIX_CHANNEL in your directory bot, In must have 1 prefix(e.g: ?, /, -, ...), 
+## Channel file must Web:class?
+Uhm no, We are upgrade v1 to you can use `Setting > Channels > Serveralist Registry` to view your bot registry channel
+## I not know what Settings icon?
+Simplest, You can hold to view tooltip
